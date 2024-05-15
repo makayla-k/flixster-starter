@@ -4,12 +4,27 @@
 
 .App-header {
   background-color: #282c34;
+  color: white;
+  padding: 20px;
+}
+
+.App-header .title{
   display: flex;
   flex-direction: row;
   align-items: center;
+  justify-content: center;
+}
+
+.App-header .title img{
+  width: 50px;
+  margin: 3rem;
+}
+
+.App-header .filters {
+  display: flex;
+  flex-direction: row;
   justify-content: space-evenly;
-  color: white;
-  padding: 20px;
+  /* border: 2px solid yellow; */
 }
 
 @media (max-width: 600px) {
