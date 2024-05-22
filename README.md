@@ -43,9 +43,7 @@ Estimated time spent: **#** hours spent in total
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<img src="https://github.com/makayla-k/flixster-starter/blob/main/Screen%20Recording%202024-05-21%20at%209.38.29%E2%80%AFPM.gif?raw=true"/>
 
 ### Reflection
 
