@@ -16,8 +16,8 @@ Estimated time spent: **#** hours spent in total
 - [x] **Search Functionality**
   - [x] Users can search for movies and view the results in a grid.
   - [x] Users can clear results and view previous current movies displayed.
-- [ ] **Accessibility Features**
-  - [ ] Website implements accessibility features (semantic HTML, color contrast, font sizing, alt text for images).
+- [x] **Accessibility Features**
+  - [x] Website implements accessibility features (semantic HTML, color contrast, font sizing, alt text for images).
 - [x] **Responsive Design**
   - [x] Website implements responsive web design.
 - [x] **Movie Details**
