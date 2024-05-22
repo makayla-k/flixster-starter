@@ -1,9 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import '../ComponentsCSS/Sort.css'
+import '../../../ComponentsCSS/Sort.css'
 
 
 const SortComponent = ({ onChange }) =>  {
+
   return (
     // JSX code for rendering the component
       <form className="sort" onChange={onChange} defaultValue="">
